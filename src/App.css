@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa; 
+  }
+  
+  .clock-box {
+    background-color: #fff;
+    border: 2px solid #ff0000;
+    border-radius: 10px;
+    display: inline-block;
+
+  }
+
+  .text-primary {
+    color: rgb(255, 0, 0) !important;
+  }
+  
+  

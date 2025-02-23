@@ -1,0 +1,14 @@
+check if it is installed node.js and npm
+read terminal
+node
+npm
+
+Install the dependencies:
+npx create-react-app my-app
+npm install
+
+open file in VSCode
+replace the folder src and public
+
+terminal:
+npm start
